@@ -20,4 +20,4 @@ Python Libraries that are required:
 - Matplolib
 - Seaborn
 - Pyplot
-- folium
+- Folium

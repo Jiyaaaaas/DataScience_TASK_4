@@ -21,3 +21,4 @@ Python Libraries that are required:
 - Seaborn
 - Pyplot
 - Folium
+- Kaleido (to save the plotly map automatically on vs code)
